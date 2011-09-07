@@ -12,7 +12,7 @@ edit the copy on their websites. It's designed to be compatible with the copycop
 That would be a legitimate question. Here are my reasons:
 
 * I didn't like Thoughtbot's web interface. Most of my clients would have a fit if they had to use it.
-* I don't it's worth spending up to $540/year for.
+* I don't think it's worth spending up to $540/year for.
 * I had some free time, and wanted to try out Redis in a real application.
 
 Currently the web interface needs some polish, but it does work.
@@ -29,8 +29,8 @@ You should probably also change the settings for where you're hosted, but that's
 settings then the instructions you get for setting up a new project will wrong though.
 
 To create your first project hit the big "New Project" button, and give it a name. You'll then be presented with some
-instructions on setting up your application to use TextTractor for it's copy. Once you've finished doing that, and some content
-has been uplaoded, you'll be able to see it.
+instructions n setting up your application to use TextTractor for it's copy. Once you've finished doing that, and some content
+has been uploaded, you'll be able to see it.
 
 To edit some content, find it by browsing through the tree (this is the big difference to Copycopter), and edit away.
 
